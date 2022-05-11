@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Prerequisites: jq
 # token=<owner>:<token>
 owner=yuk0ga

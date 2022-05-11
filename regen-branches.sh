@@ -1,7 +1,7 @@
 #!/bin/bash
 # Prerequisites: jq
 
-token=yuk0ga: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
+token=
 owner=yuk0ga
 repo=gh-api-test
 master=master
